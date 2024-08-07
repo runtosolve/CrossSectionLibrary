@@ -1,0 +1,7 @@
+name = "CrossSectionLibrary"
+uuid = "8930ff52-fd37-4baa-b236-db0e9af7c039"
+authors = ["Cris Moen <cris.moen@runtosolve.com>"]
+version = "0.1.0"
+
+[deps]
+CrossSectionGeometry = "e5713cf4-1a83-4860-95bf-b82253e75fb4"
