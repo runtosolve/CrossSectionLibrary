@@ -1,6 +1,6 @@
 module CrossSectionLibrary
 
-using CrossSectionGeometry
+using CrossSectionGeometry, LinearAlgebra
 
 
 function pipe(D, t, num_segments)
